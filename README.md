@@ -33,11 +33,11 @@ I'm a seasoned DevOps engineer with a strong foundation in systems engineering, 
 
 ### 📈 Featured Projects
 
-🏗️ **[terraform-playground] (https://github.com/KajiMaster/terraform-playground)** - A comprehensive enterprise-grade Infrastructure-as-Code project demonstrating Terraform best practices, multi-environment deployments (dev/staging/production), blue-green deployment patterns, and cost optimization strategies. Features CI/CD automation and support for multiple deployment patterns (ASG, ECS, EKS).
+🏗️ **[terraform-playground](https://github.com/KajiMaster/terraform-playground)** - A comprehensive enterprise-grade Infrastructure-as-Code project demonstrating Terraform best practices, multi-environment deployments (dev/staging/production), blue-green deployment patterns, and cost optimization strategies. Features CI/CD automation and support for multiple deployment patterns (ASG, ECS, EKS).
 
-⚡ **dofs-project** - Production-ready, event-driven serverless architecture built on AWS using Terraform. Demonstrates modern cloud-native patterns with Step Functions orchestration, Lambda functions, SQS queues, DynamoDB, and comprehensive error handling. Features automated CI/CD pipelines with GitFlow workflow and multi-environment support.
+⚡ **[dofs-project](https://github.com/KajiMaster/dofs-project)** - Production-ready, event-driven serverless architecture built on AWS using Terraform. Demonstrates modern cloud-native patterns with Step Functions orchestration, Lambda functions, SQS queues, DynamoDB, and comprehensive error handling. Features automated CI/CD pipelines with GitFlow workflow and multi-environment support.
 
-🎓 **curriculum-designer** - Full-stack educational technology application built with React and Node.js, featuring modern web development practices, API design, and scalable application architecture.
+🎓 **[curriculum-designer](https://github.com/KajiMaster/curriculum-designer)** - Full-stack educational technology application built with React and Node.js, featuring modern web development practices, API design, and scalable application architecture.
 
 ### 💼 Available for Freelance & Consulting
 
