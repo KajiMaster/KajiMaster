@@ -1,6 +1,6 @@
 # Hi there, I'm Blake 👋
 
-## DevOps Engineer | Cloud Infrastructure Specialist | Systems Automation Expert
+## DevOps Engineer | Cloud Infrastructure Specialist | Solutions Architect
 
 I'm a seasoned DevOps engineer with a strong foundation in systems engineering, cloud infrastructure, and security operations. I specialize in building scalable, secure infrastructure using modern DevOps practices, GitFlow, and cloud-native technologies.
 
